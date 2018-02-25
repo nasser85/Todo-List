@@ -7,7 +7,7 @@
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
   },
-  "homepage": "https://github.com/nasser85/Todo-List/tree/master/docs",
+  "homepage": "https://nasser85.github.io/Todo-list",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
